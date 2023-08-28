@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FLUTTER<br>👯 I’m looking to collaborate on your mobile development projects paid or not provided that I acquire new skills<br>🤝 I am open to working freelance on your PHP and Mobile Flutter web development projects  .<br>🌱 I’m currently learning Flutter and Dart<br>💬 Ask me about Flutter, Dart, HTMJ CSS and PHP<br>⚡ Fun fact GAMING and CODE
+🔭 I’m currently working on FLUTTER<br>👯 I’m looking to collaborate on your mobile development projects paid or not provided that I acquire new skills<br>🤝 I am open to working freelance on your PHP and Mobile Flutter web development projects  .<br>🌱 I’m currently learning Flutter and Dart<br>💬 Ask me about Flutter, Dart, HTML CSS and PHP<br>⚡ Fun fact GAMING and CODE
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=phnxkid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phnxkid&icon=0&color=12)](https://visitcount.itsvg.in)
